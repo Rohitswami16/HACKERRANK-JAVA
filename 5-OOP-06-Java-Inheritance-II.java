@@ -12,6 +12,7 @@ class Arithmetic {
 }
 
 class Adder extends Arithmetic{
+    
 }
 
 public class Solution{
