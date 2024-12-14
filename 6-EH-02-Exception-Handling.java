@@ -4,7 +4,6 @@ class MyCalculator {
     /*
     * Create the method long power(int, int) here.
     */
-    
     long power(int a, int b) throws Exception{
 
 
