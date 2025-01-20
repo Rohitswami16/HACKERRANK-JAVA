@@ -11,6 +11,7 @@ public class Main{
 		}
       return it;
    }
+
    @SuppressWarnings({ "unchecked" })
    public static void main(String []args){
       ArrayList mylist = new ArrayList();
