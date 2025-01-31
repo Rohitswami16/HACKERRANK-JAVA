@@ -28,7 +28,6 @@ public class Solution {
         while (in .hasNextInt()) {
             int n = in .nextInt();
             int p = in .nextInt();
-            
             try {
                 System.out.println(my_calculator.power(n, p));
             } catch (Exception e) {
