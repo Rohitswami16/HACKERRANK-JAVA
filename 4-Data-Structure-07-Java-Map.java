@@ -22,7 +22,7 @@ class Solution{
             
             if(!(phoneBook.containsKey(name1))){
                 System.out.println("Not found");
-            }else{
+            } else {
                 System.out.println( name1+"="+phoneBook.get(name1));
             }
         }
